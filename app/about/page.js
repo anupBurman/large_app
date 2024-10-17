@@ -4,7 +4,7 @@ import Container from 'react-bootstrap/Container';
 import Button from 'react-bootstrap/Button';
 import 'bootstrap/dist/css/bootstrap.min.css';
 // import styles from "./page.module.css";
-import { useEffect, useState } from "react";
+// import { useEffect, useState } from "react";
 
 export default function About() {
 
