@@ -28,22 +28,11 @@ export default function About() {
           <div className="col-3">
             <ol>
               <li> <b>Employee Name </b> </li>
-              {/* {
-                users.map((user) =>
-                  <li key={user.id}> {user.name} </li>
-                )
-              } */}
-
             </ol>
           </div>
           <div className="col-9">
             <ul>
             <li> <b>Employee Email </b> </li>
-              {/* {
-                users.map((user) =>
-                  <li key={user.id}> {user.email} </li>
-                )
-              } */}
             </ul>
           </div>
         </div>
