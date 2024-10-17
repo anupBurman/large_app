@@ -26,7 +26,7 @@ export default function Home() {
             <p> First Block start from here </p>
           </div>
           <div className="col-6">
-            <p> First Block start from here </p>
+            <p> First Block  </p>
           </div>
         </div>
 
